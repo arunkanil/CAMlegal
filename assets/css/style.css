@@ -59,7 +59,7 @@ a {
   transition: all 0.2s;
 }
 a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 a,
 a:active,
@@ -238,7 +238,7 @@ label input[type="radio"] {
 .lawFirm--btn {
   display: inline-block;
   padding: 16.5px 39px;
-  border: 1px solid #d2ad27;
+  border: 1px solid #6c6c6c;
   color: #4b4b4b;
   position: relative;
   z-index: 2;
@@ -257,7 +257,7 @@ label input[type="radio"] {
   margin: auto;
   height: 0;
   width: 0;
-  background-color: #d2ad27;
+  background-color: #6c6c6c;
   z-index: -1;
   opacity: 0;
   -webkit-transition: all 0.4s ease;
@@ -304,7 +304,7 @@ label input[type="radio"] {
   left: 0;
   width: 80px;
   height: 4px;
-  background-color: #d2ad27;
+  background-color: #6c6c6c;
 }
 .lawFirm--section-title.text-center h2 span {
   display: block;
@@ -320,7 +320,7 @@ label input[type="radio"] {
   transform: translateX(-50%);
   width: 80px;
   height: 4px;
-  background-color: #d2ad27;
+  background-color: #6c6c6c;
 }
 .lawFirm--left-back-circle,
 .lawFirm--right-back-circle {
@@ -336,7 +336,7 @@ label input[type="radio"] {
   transform: translateY(-50%);
   height: 350px;
   width: 350px;
-  border: 10px solid #d2ad27;
+  border: 10px solid #6c6c6c;
   border-radius: 50%;
   opacity: 0.3;
 }
@@ -360,7 +360,7 @@ label input[type="radio"] {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #d2ad27;
+  background-color: #070707;
   z-index: -1;
   opacity: 0.5;
 }
@@ -378,7 +378,7 @@ label input[type="radio"] {
 }
 .lawFirm--page-title .title-bc a:hover,
 .lawFirm--page-title .title-bc span {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .ul-default ul {
   margin: 0;
@@ -625,7 +625,7 @@ label input[type="radio"] {
   > .sub-menu
   a:hover,
 .lawFirm--header .lawFirm--nav-menu > ul > li > a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--header .lawFirm--nav-menu ul li.menu-item-has-children {
   position: relative;
@@ -781,7 +781,7 @@ label input[type="radio"] {
   overflow-x: hidden;
 }
 .lawFirm--off-canvas h3 {
-  color: #d2ad27;
+  color: #6c6c6c;
   line-height: 1;
 }
 .lawFirm--off-canvas .lawFirm--off-canvas-close {
@@ -803,7 +803,7 @@ label input[type="radio"] {
   padding: 0 20px;
 }
 .lawFirm--sub-form-in-canvas .canvas-search-form .btn {
-  background-color: #d2ad27;
+  background-color: #6c6c6c;
   color: #fff;
   line-height: 1;
 }
@@ -817,7 +817,7 @@ label input[type="radio"] {
   top: 0;
   left: 0;
   width: 30px;
-  color: #d2ad27;
+  color: #6c6c6c;
   font-size: 18px;
   line-height: 24px;
 }
@@ -877,7 +877,7 @@ label input[type="radio"] {
   line-height: 1.15;
 }
 .lawFirm--banner-slider-item .lawFirm--banner-slider-item-text h2 {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--banner-slider-item .lawFirm--banner-slider-item-text .lawFirm--btn {
   color: #fff;
@@ -899,7 +899,7 @@ label input[type="radio"] {
   color: #fff;
 }
 .lawFirm--banner-slider-social-icons a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--filter-search {
   min-height: 150px;
@@ -928,7 +928,7 @@ label input[type="radio"] {
 .nice-select .list {
   min-width: 100%;
   border-radius: 0;
-  border: 1px solid #d2ad27;
+  border: 1px solid #6c6c6c;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
 }
 .nice-select:after {
@@ -995,14 +995,14 @@ label input[type="radio"] {
   width: 1px;
 }
 .lawFirm--w-process-items .lawFirm--acc-item .target-area.active h3 {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--w-process-items
   .lawFirm--acc-item
   .target-area.active
   h3
   span:before {
-  background-color: #d2ad27;
+  background-color: #6c6c6c;
 }
 .lawFirm--w-process-items .lawFirm--acc-item .target-area.active h3 span:after {
   display: none;
@@ -1011,12 +1011,12 @@ label input[type="radio"] {
   max-height: 190px;
   z-index: 9;
   position: relative;
-  border: 2px solid #d2ad27;
+  border: 2px solid #6c6c6c;
 }
 .lawFirm--service-slider-item-text {
   margin-left: -60px;
   padding-left: 95px;
-  border: 2px solid #d2ad27;
+  border: 2px solid #6c6c6c;
   z-index: -1;
 }
 .lawFirm--service-slider-item-text h3 {
@@ -1034,12 +1034,12 @@ label input[type="radio"] {
   font-size: 18px;
 }
 .lawFirm--service-slider-item-text .btn:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
 }
 .lawFirm--service-slider-item-text .btn:hover .svg-btn path {
-  stroke: #d2ad27;
+  stroke: #6c6c6c;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
 }
@@ -1074,7 +1074,7 @@ label input[type="radio"] {
   background-color: rgba(210, 173, 39, 0.55);
 }
 .lawFirm--team-slider-item-image .social-links a .fa:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--team-slider-item-text h4 {
   -webkit-transition: 0.4s ease;
@@ -1092,7 +1092,7 @@ label input[type="radio"] {
   transition: 0.4s ease;
 }
 .lawFirm--team-slider-item:hover .lawFirm--team-slider-item-text h4 {
-  color: #d2ad27;
+  color: #6c6c6c;
   -webkit-transition: 0.4s ease;
   transition: 0.4s ease;
 }
@@ -1120,7 +1120,7 @@ label input[type="radio"] {
   max-width: 730px;
 }
 .lawFirm--testimonials-slider-item {
-  border: 2px solid #d2ad27;
+  border: 2px solid #6c6c6c;
   background-color: #fff;
   position: relative;
   z-index: 9;
@@ -1131,7 +1131,7 @@ label input[type="radio"] {
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
   bottom: -50px;
-  border: 2px solid #d2ad27;
+  border: 2px solid #6c6c6c;
   max-height: 100px;
   max-width: 100px;
 }
@@ -1155,7 +1155,7 @@ label input[type="radio"] {
   line-height: 1.6;
 }
 .lawFirm--testimonials-slider-item .slider-item-text .slider-item-client h4 {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--testimonials-slider-item .slider-item-text .slider-item-client p {
   font-size: 14px;
@@ -1190,7 +1190,7 @@ label input[type="radio"] {
   color: #171717;
 }
 .lawFirm--blog-slider-item-text h2 a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--c-logo-slider .lawFirm--c-logo-slider-item {
   display: -webkit-box;
@@ -1227,7 +1227,7 @@ label input[type="radio"] {
   min-width: 255px;
   border-radius: 0;
   padding: 20px 0;
-  border: 1px solid #d2ad27;
+  border: 1px solid #6c6c6c;
 }
 .lawFirm--contact .nav.nav-pills .nav-item .dropdown-menu a {
   border-radius: 0;
@@ -1236,7 +1236,7 @@ label input[type="radio"] {
   color: #4b4b4b;
 }
 .lawFirm--contact .nav.nav-pills .nav-item .dropdown-menu a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--contact .nav.nav-pills .nav-link.dropdown-toggle:after {
   display: none;
@@ -1308,7 +1308,7 @@ label input[type="radio"] {
   line-height: 28px;
   text-align: left;
   font-size: 20px;
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--contact-social-links a {
   margin-right: 10px;
@@ -1342,7 +1342,7 @@ label input[type="radio"] {
   background-color: #ccc;
 }
 .lawFirm--footer a {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--footer-menu ul {
   margin: 0;
@@ -1362,7 +1362,7 @@ label input[type="radio"] {
   color: #fff;
 }
 .lawFirm--footer-menu ul li a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .lawFirm--counter.lawFirm--bg-overlay:before {
   opacity: 0.7;
@@ -1391,7 +1391,7 @@ label input[type="radio"] {
   margin-top: 50px;
 }
 .lawFirm--widget .input-group {
-  border: 1px solid #d2ad27;
+  border: 1px solid #6c6c6c;
 }
 .lawFirm--widget .input-group .form-control {
   border: 0;
@@ -1416,7 +1416,7 @@ label input[type="radio"] {
   left: 0;
   width: 80px;
   height: 4px;
-  background-color: #d2ad27;
+  background-color: #6c6c6c;
   opacity: 0.5;
 }
 .lawFirm--widget ul {
@@ -1458,7 +1458,7 @@ label input[type="radio"] {
 }
 .lawFirm--pagination ul li a.active,
 .lawFirm--pagination ul li a:hover {
-  background: #d2ad27;
+  background: #6c6c6c;
   color: #fff;
 }
 .lawFirm--pagination ul li.next-page a {
@@ -1467,7 +1467,7 @@ label input[type="radio"] {
 .lawFirm--pagination ul li.next-page a:hover,
 .lawFirm--pagination ul li.next-page a:hover .svg path {
   background: #fff;
-  stroke: #d2ad27;
+  stroke: #6c6c6c;
 }
 .lawFirm--search-result-image a img {
   width: 100%;
@@ -1500,12 +1500,12 @@ label input[type="radio"] {
   padding-top: 5px;
 }
 .lawFirm--search-result-text .btn:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
 }
 .lawFirm--search-result-text .btn:hover .svg-btn path {
-  stroke: #d2ad27;
+  stroke: #6c6c6c;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
 }
@@ -1564,7 +1564,7 @@ label input[type="radio"] {
   font-size: 18px;
 }
 .post-meta-info .cats a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .post-meta-info .cats a:after {
   content: ",";
@@ -1678,7 +1678,7 @@ label input[type="radio"] {
   font-size: 13px;
 }
 .post-details-cover .post-all-tags a:hover {
-  background-color: #d2ad27;
+  background-color: #6c6c6c;
   color: #fff;
 }
 .post-details-cover .post-about-author-box {
@@ -1715,7 +1715,7 @@ label input[type="radio"] {
   font-size: 14px;
 }
 .post-details-cover .post-about-author-box .author-desc .social-icons a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .post-details-cover .post-all-comments {
   padding: 40px;
@@ -1819,7 +1819,7 @@ label input[type="radio"] {
   .single-post-comment
   .comment-content
   .reply-btn:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .post-details-cover .post-all-comments .children {
   margin-left: 120px;
@@ -1863,7 +1863,7 @@ label input[type="radio"] {
   font-weight: 700;
 }
 .my-post-category a:hover {
-  color: #d2ad27;
+  color: #6c6c6c;
 }
 .my-post-category a:hover:after {
   background-color: rgba(0, 0, 0, 0.7);
@@ -1883,7 +1883,7 @@ label input[type="radio"] {
 blockquote {
   padding: 40px;
   background-color: #f9f9f9;
-  border-left: 2px solid #d2ad27;
+  border-left: 2px solid #6c6c6c;
   position: relative;
   z-index: 9;
   font-family: "Playfair Display", serif;
@@ -2296,7 +2296,7 @@ blockquote cite {
   bottom: 40px;
 }
 .back-to-top:hover {
-  background-color: #d2ad27;
+  background-color: #6c6c6c;
 }
 .animated {
   -webkit-animation-duration: 1s;
@@ -2844,7 +2844,7 @@ blockquote cite {
   .disclaimer-btn {
     display: inline-block;
     padding: 16.5px 39px;
-    border: 1px solid #d2ad27;
+    border: 1px solid #6c6c6c;
     color: #4b4b4b;
     position: relative;
     z-index: 2;
