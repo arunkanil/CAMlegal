@@ -2806,7 +2806,7 @@ blockquote cite {
 
 
 .modal {
-    display: block; /* Hidden by default */
+    display: block; /* shown by default */
     position: fixed; /* Stay in place */
     z-index: 999; /* Sit on top */
     left: 0;

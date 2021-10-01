@@ -79,7 +79,7 @@
                             </div>
                         </div>
                         <div class="lawFirm--mobile-header-icon">
-                             <!-- <div class="lawFirm--search-form-icon">
+                            <!-- <div class="lawFirm--search-form-icon">
                                 <i class="fa fa-search"></i>
                                 <div class="lawFirm--header-search-form input-group mb-3">
                                     <input type="text" class="form-control lawFirm--input-style"
@@ -1011,7 +1011,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-5 order-3 order-md-1">
-                     <!-- <div class="lawFirm-footer-cradit text-center text-md-left">
+                    <!-- <div class="lawFirm-footer-cradit text-center text-md-left">
                         Copyright 2019 &copy; Developed by <a href="#">ThemeLooks.</a>
                     </div> -->
                 </div>
@@ -1042,8 +1042,15 @@
         // Get the <span> element that closes the modal
         var span = document.getElementsByClassName("close")[0];
         // When the user clicks on <span> (x), close the modal
+        window.onload = function () {
+            if (sessionStorage.getItem("TCagreed") == "true") {
+                modal.style.display = "none";
+                console.log(true)
+            }
+        }
         span.onclick = function () {
             modal.style.display = "none";
+            sessionStorage.setItem("TCagreed", true);
         };
 
     </script>
